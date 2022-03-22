@@ -1,0 +1,7 @@
+//function to find equilibrium point based on robot rocking back and forth
+
+//take 50 data samples
+//find average
+//save average into static variable equilibrium
+//use equilibrium to try again
+//do this loop set number of times then continue
